@@ -1,4 +1,12 @@
-# Welcome to Cracow Data Workshop project page!
+# This repo is NO LONGER in use
+
+The new address of our project repo is: https://github.com/dataworkshop/dw-cracow-project
+
+This repository will not be updated anymore. 
+
+---
+
+## Welcome to Cracow Data Workshop project page!
 
 The current discussions are conducted on wiki pages:
 
